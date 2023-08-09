@@ -1,0 +1,3 @@
+name: todo-aws-pulumi
+runtime: nodejs
+description: Todo list using Pulumi to provision AWS resources
