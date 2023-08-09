@@ -1,0 +1,23 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "Todo server running on AWS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiousdork/todo-aws-pulumi.git"
+  },
+  "author": "Brian M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curiousdork/todo-aws-pulumi/issues"
+  },
+  "homepage": "https://github.com/curiousdork/todo-aws-pulumi#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.9",
+    "typescript": "^5.1.6"
+  }
+}
